@@ -1,0 +1,9 @@
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\bin\Debug\Slidish.exe.config
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\bin\Debug\Slidish.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\bin\Debug\Slidish.pdb
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\obj\Debug\Slidish.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\obj\Debug\Slidish.Form1.resources
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\obj\Debug\Slidish.Properties.Resources.resources
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\obj\Debug\Slidish.csproj.GenerateResource.Cache
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\obj\Debug\Slidish.exe
+c:\users\matthew\documents\visual studio 2013\Projects\Slidish\Slidish\obj\Debug\Slidish.pdb
